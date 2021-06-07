@@ -1,9 +1,7 @@
 matplotlib==3.1.2
-numpy==1.17.3
 pandas==1.0.1
-seaborn==0.9.0
-streamlit==0.62.1
-IPython
+streamlit==0.72.0
+numpy==1.19.5
 torch
 torchvision
 opencv-python==4.5.1
