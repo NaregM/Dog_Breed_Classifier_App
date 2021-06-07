@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run bmw222.py
+web: sh setup.sh && streamlit run dog_breed_class.py
