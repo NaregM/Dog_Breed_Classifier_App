@@ -4,5 +4,5 @@ streamlit==0.72.0
 numpy==1.19.5
 torch
 torchvision
-opencv-python==4.5.1
+opencv-contrib-python-headless
 wikipedia
