@@ -6,3 +6,4 @@ streamlit==0.62.1
 IPython
 torch
 python-opencv
+wikipedia
